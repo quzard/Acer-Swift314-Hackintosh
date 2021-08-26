@@ -32,6 +32,7 @@
 - HDMI
 - Audio
 - USB
+- MIC
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
 - Sleep, Wakeup, Shutdown, Restart
 
